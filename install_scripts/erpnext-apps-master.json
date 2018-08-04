@@ -1,7 +1,7 @@
 [
 	{
-		"url":"https://github.com/frappe/erpnext",
+		"url":"https://github.com/hfaridgit/erpnext",
 		"name":"erpnext",
-		"branch": "master"
+		"branch": "directionv10"
 	}
 ]
